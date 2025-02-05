@@ -465,5 +465,17 @@
     "imageUrl": "/content/images/9/180x62l75nn0/tropiclean-69673420596404.webp",
     "productName": "TropiClean",
     "url": "https://petropolis.com.ua/tropiclean/"
+},
+    {
+    "brand": "Nature's Miracle",
+    "imageUrl": "content/images/46/157x88l75nn0/natures-miracle-79901407735046.webp",
+    "productName": "Nature's Miracle",
+    "url": "https://petropolis.com.ua/natures-miracle/"
+},
+    {
+    "brand": "Smartis",
+    "imageUrl": "/content/images/7/180x55l75nn0/smartis-97127259653059.webp",
+    "productName": "Smartis",
+    "url": "https://petropolis.com.ua/smartis/"
 }
 ]
