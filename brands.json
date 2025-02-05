@@ -477,5 +477,35 @@
     "imageUrl": "/content/images/7/180x55l75nn0/smartis-97127259653059.webp",
     "productName": "Smartis",
     "url": "https://petropolis.com.ua/smartis/"
+},
+    {
+    "brand": "Dr.Pets",
+    "imageUrl": "/content/images/8/120x120l75nn0/dr.pets-39833707909275.webp",
+    "productName": "Dr.Pets",
+    "url": "https://petropolis.com.ua/dr.pets/"
+},
+    {
+    "brand": "Zoetis",
+    "imageUrl": "/content/images/2/180x103l75nn0/zoetis-34772594328110.webp",
+    "productName": "Zoetis",
+    "url": "https://petropolis.com.ua/zoetis"
+},
+    {
+    "brand": "GEORPLAST",
+    "imageUrl": "/content/images/45/180x52l75nn0/georplast-30170842665036.webp",
+    "productName": "GEORPLAST",
+    "url": "https://petropolis.com.ua/georplast/"
+},
+    {
+    "brand": "CANDIOLI S.r.l .",
+    "imageUrl": "/content/images/3/180x60l75nn0/candioli-s.r.l-.-92794824639381.webp",
+    "productName": "CANDIOLI S.r.l .",
+    "url": "https://petropolis.com.ua/candioli-s.r.l-./"
+},
+    {
+    "brand": "Dolfos",
+    "imageUrl": "/content/images/49/180x58l75nn0/dolfos-40191249176859.webp",
+    "productName": "Dolfos",
+    "url": "https://petropolis.com.ua/dolfos/"
 }
 ]
