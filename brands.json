@@ -221,12 +221,6 @@
     "url": "https://petropolis.com.ua/flyber/"
 },
   {
-    "brand": "GOURMET",
-    "imageUrl": "/content/images/45/180x65l75nn0/gourmet-37626690105080.webp",
-    "productName": "GOURMET",
-    "url": "https://petropolis.com.ua/gourmet/"
-},
-  {
     "brand": "Gigwi",
     "imageUrl": "/content/images/10/120x120l75nn0/gigwi-56456788506972.webp",
     "productName": "Gigwi",
@@ -561,5 +555,17 @@
     "imageUrl": "/content/images/1/120x120l75nn0/delickcious-71775198413562.webp",
     "productName": "DELICKCIOUS",
     "url": "https://petropolis.com.ua/delickcious/"
+},
+    {
+    "brand": "GOURMET Gold",
+    "imageUrl": "/content/images/16/180x108l75nn0/gourmet-gold-87511113746995.webp",
+    "productName": "GOURMET Gold",
+    "url": "https://petropolis.com.ua/gourmet-gold/"
+},
+    {
+    "brand": "GOURMET Perle",
+    "imageUrl": "/content/images/17/180x119l75nn0/gourmet-perle-78295553802255.webp",
+    "productName": "GOURMET Perle",
+    "url": "https://petropolis.com.ua/gourmet-perle/"
 }
 ]
