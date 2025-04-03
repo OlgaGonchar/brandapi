@@ -573,5 +573,17 @@
     "imageUrl": "/content/images/20/180x80l75nn0/say-meow-83925521312032.webp",
     "productName": "Say Meow",
     "url": "https://petropolis.com.ua/say-meow/"
+},
+    {
+    "brand": "Haupt Pharma",
+    "imageUrl": "/content/images/22/180x60l75nn0/haupt-pharma-54353725567559.webp",
+    "productName": "Haupt Pharma",
+    "url": "https://petropolis.com.ua/haupt-pharma/"
+},
+    {
+    "brand": "Virbac",
+    "imageUrl": "/content/images/21/180x87l75nn0/virbac-57811818195219.webp",
+    "productName": "Virbac",
+    "url": "https://petropolis.com.ua/virbac/"
 }
 ]
